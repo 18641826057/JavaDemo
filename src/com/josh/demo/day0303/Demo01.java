@@ -19,7 +19,7 @@ public class Demo01 {
 			}
 		}
 		//计时器完毕后往下执行
-		System.out.println("计时器结束！");
+		System.out.println("计时器结束！...");
 	}
 
 }
